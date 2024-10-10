@@ -1,0 +1,14 @@
+{
+    "notifications": {
+        "clone_error": true,
+        "backup_error": true,
+        "restore_error": true,
+        "sync_complete": false,
+        "sync_error": true,
+        "update_available": false,
+        "update_complete": false,
+        "update_error": true,
+        "add_on_update_complete": false,
+        "add_on_update_error": true
+    }
+}
